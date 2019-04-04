@@ -1,0 +1,408 @@
+{
+  "accountId": "4735ce9132924caf8a5b17789b40f79c",
+  "fnApiId": 456,
+  "epicName": "Ninja",
+  "seasonWindow": "allSeasons",
+  "devices": ["keyboardmouse", "touch"],
+  "data": {
+    "keyboardmouse": {
+      "comp": {
+        "solo": {
+          "placetop1": 21,
+          "placetop10": 38,
+          "kills": 278,
+          "matchesplayed": 51,
+          "placetop25": 43
+        },
+        "meta": { "placetop1": 12, "kills": 162, "matchesplayed": 28 }
+      },
+      "defaultduo": {
+        "default": {
+          "playersoutlived": 18721,
+          "minutesplayed": 2844,
+          "placetop12": 2580,
+          "placetop5": 2156,
+          "placetop1": 1752,
+          "score": 112806,
+          "lastmodified": 1554132496,
+          "matchesplayed": 4492,
+          "kills": 29806
+        }
+      },
+      "classic": {
+        "squad": {
+          "placetop6": 12,
+          "score": 11869,
+          "kills": 274,
+          "matchesplayed": 54,
+          "minutesplayed": 251,
+          "playersoutlived": 1498,
+          "placetop3": 12,
+          "placetop1": 12,
+          "lastmodified": 1545262547
+        }
+      },
+      "deimos": {
+        "solo": {
+          "minutesplayed": 96,
+          "playersoutlived": 558,
+          "placetop25": 29,
+          "matchesplayed": 38,
+          "placetop10": 24,
+          "kills": 321,
+          "lastmodified": 1548702514,
+          "placetop1": 20,
+          "score": 2583
+        },
+        "duo": {
+          "placetop5": 26,
+          "matchesplayed": 55,
+          "minutesplayed": 152,
+          "placetop1": 4,
+          "placetop12": 9,
+          "kills": 353,
+          "lastmodified": 1548183995,
+          "score": 5255,
+          "playersoutlived": 873
+        },
+        "squad": {
+          "playersoutlived": 3526,
+          "placetop3": 26,
+          "placetop6": 31,
+          "minutesplayed": 600,
+          "kills": 336,
+          "score": 25109,
+          "placetop1": 20,
+          "matchesplayed": 42,
+          "lastmodified": 1548716466
+        }
+      },
+      "50v50": {
+        "default": { "placetop1": 10, "matchesplayed": 14, "kills": 87 }
+      },
+      "snipers": {
+        "duo": {
+          "placetop5": 4,
+          "playersoutlived": 581,
+          "matchesplayed": 10,
+          "placetop1": 4,
+          "score": 2919,
+          "lastmodified": 1545594014,
+          "placetop12": 5,
+          "minutesplayed": 78,
+          "kills": 90
+        },
+        "solo": {
+          "placetop1": 1,
+          "kills": 33,
+          "matchesplayed": 5,
+          "placetop25": 3,
+          "placetop10": 3
+        },
+        "squad": { "kills": 28, "matchesplayed": 4 }
+      },
+      "bling": {
+        "squad": {
+          "placetop3": 6,
+          "matchesplayed": 11,
+          "kills": 69,
+          "placetop6": 7,
+          "placetop1": 5
+        }
+      },
+      "solidgold": {
+        "squad": {
+          "placetop3": 2,
+          "matchesplayed": 12,
+          "kills": 72,
+          "placetop6": 3,
+          "placetop1": 1
+        }
+      },
+      "showdown": {
+        "solo": {
+          "placetop10": 7,
+          "kills": 98,
+          "placetop25": 10,
+          "placetop1": 4,
+          "matchesplayed": 23
+        },
+        "squad": {
+          "placetop3": 10,
+          "kills": 72,
+          "placetop1": 9,
+          "placetop6": 12,
+          "matchesplayed": 16
+        }
+      },
+      "vamp": {
+        "solo": {
+          "playersoutlived": 103,
+          "kills": 7,
+          "lastmodified": 1545321431,
+          "placetop25": 1,
+          "score": 235,
+          "minutesplayed": 11,
+          "matchesplayed": 2
+        }
+      },
+      "slide": {
+        "solo": {
+          "minutesplayed": 25,
+          "playersoutlived": 176,
+          "placetop25": 2,
+          "placetop10": 1,
+          "kills": 20,
+          "lastmodified": 1545495769,
+          "matchesplayed": 2,
+          "placetop1": 1,
+          "score": 828
+        }
+      },
+      "defaultsquad": {
+        "default": {
+          "minutesplayed": 6016,
+          "score": 262624,
+          "placetop3": 1927,
+          "lastmodified": 1554323575,
+          "placetop1": 1631,
+          "matchesplayed": 4760,
+          "placetop6": 2265,
+          "kills": 29975,
+          "playersoutlived": 37242
+        }
+      },
+      "hover": {
+        "64": {
+          "kills": 12,
+          "playersoutlived": 78,
+          "matchesplayed": 3,
+          "score": 1948,
+          "lastmodified": 1551290067,
+          "minutesplayed": 19
+        }
+      },
+      "fill": {
+        "duo": {
+          "minutesplayed": 49,
+          "playersoutlived": 306,
+          "lastmodified": 1553702202,
+          "placetop1": 1,
+          "placetop12": 4,
+          "score": 1796,
+          "placetop5": 2,
+          "matchesplayed": 4,
+          "kills": 30
+        }
+      },
+      "sword": {
+        "squad": {
+          "minutesplayed": 9,
+          "matchesplayed": 1,
+          "lastmodified": 1550356722,
+          "kills": 5,
+          "playersoutlived": 79,
+          "score": 415
+        }
+      },
+      "sneaky": { "solo": { "matchesplayed": 2, "kills": 16 } },
+      "close": {
+        "squad": {
+          "placetop6": 8,
+          "kills": 155,
+          "matchesplayed": 16,
+          "placetop3": 8,
+          "placetop1": 8
+        }
+      },
+      "showdownalt": {
+        "trios": {
+          "lastmodified": 1550431111,
+          "kills": 27,
+          "minutesplayed": 78,
+          "score": 3844,
+          "playersoutlived": 412,
+          "placetop1": 3,
+          "matchesplayed": 7
+        },
+        "solo": {
+          "placetop1": 18,
+          "placetop25": 51,
+          "placetop10": 31,
+          "kills": 346,
+          "playersoutlived": 1818,
+          "lastmodified": 1553965850,
+          "minutesplayed": 382,
+          "score": 9857,
+          "matchesplayed": 89
+        },
+        "duo": {
+          "minutesplayed": 2312,
+          "matchesplayed": 151,
+          "playersoutlived": 9464,
+          "placetop12": 101,
+          "score": 56026,
+          "lastmodified": 1554244489,
+          "placetop1": 39,
+          "kills": 421,
+          "placetop5": 79
+        }
+      },
+      "steady": {
+        "squad": {
+          "placetop6": 6,
+          "kills": 41,
+          "placetop1": 4,
+          "placetop3": 5,
+          "matchesplayed": 14
+        },
+        "solo": { "kills": 9, "matchesplayed": 2 }
+      },
+      "hard": {
+        "squad": {
+          "placetop1": 15,
+          "placetop3": 16,
+          "kills": 154,
+          "placetop6": 17,
+          "playersoutlived": 1564,
+          "score": 12230,
+          "matchesplayed": 19,
+          "minutesplayed": 246,
+          "lastmodified": 1545429584
+        }
+      },
+      "showdowntournament": {
+        "duo": {
+          "placetop5": 4,
+          "kills": 12,
+          "matchesplayed": 12,
+          "minutesplayed": 155,
+          "placetop12": 5,
+          "lastmodified": 1553120891,
+          "playersoutlived": 623,
+          "score": 2705
+        }
+      },
+      "playground": {
+        "default": {
+          "placetop1": 3,
+          "matchesplayed": 22,
+          "score": 152,
+          "minutesplayed": 10,
+          "lastmodified": 1550764266
+        }
+      },
+      "score": {
+        "duo": {
+          "placetop1": 2,
+          "matchesplayed": 7,
+          "placetop12": 3,
+          "placetop5": 2,
+          "kills": 25
+        },
+        "solo": { "kills": 1, "matchesplayed": 1 }
+      },
+      "ground": { "squad": { "matchesplayed": 1, "kills": 10 } },
+      "blitz": {
+        "duo": {
+          "placetop5": 5,
+          "placetop12": 7,
+          "placetop1": 5,
+          "matchesplayed": 13,
+          "kills": 46
+        },
+        "squad": {
+          "placetop3": 30,
+          "placetop1": 24,
+          "matchesplayed": 103,
+          "kills": 649,
+          "placetop6": 43
+        },
+        "solo": {
+          "kills": 453,
+          "placetop1": 25,
+          "matchesplayed": 53,
+          "placetop10": 36,
+          "placetop25": 41
+        }
+      },
+      "playgroundv2": {
+        "default": {
+          "minutesplayed": 190,
+          "score": 1978,
+          "lastmodified": 1554259705,
+          "matchesplayed": 14
+        }
+      },
+      "disco": { "32": { "matchesplayed": 1 } },
+      "defaultsolo": {
+        "default": {
+          "placetop10": 2497,
+          "score": 126006,
+          "placetop1": 1819,
+          "playersoutlived": 25151,
+          "placetop25": 3025,
+          "matchesplayed": 5507,
+          "lastmodified": 1554320002,
+          "kills": 39304,
+          "minutesplayed": 3868
+        }
+      },
+      "barrier": { "12": { "kills": 31, "matchesplayed": 1 } },
+      "soaring": { "50s": { "kills": 2, "matchesplayed": 1, "placetop1": 1 } }
+    },
+    "touch": {
+      "playground": { "default": { "matchesplayed": 6, "placetop1": 1 } },
+      "defaultsolo": {
+        "default": {
+          "lastmodified": 1545620408,
+          "kills": 4,
+          "placetop25": 3,
+          "matchesplayed": 19,
+          "score": 216,
+          "playersoutlived": 154,
+          "minutesplayed": 14
+        }
+      }
+    }
+  },
+  "overallData": {
+    "defaultModes": {
+      "playersoutlived": 81268,
+      "score": 501652,
+      "placetop1": 5202,
+      "matchesplayed": 14778,
+      "kills": 99089,
+      "includedPlaylists": ["defaultsolo", "defaultduo", "defaultsquad"]
+    },
+    "ltmModes": {
+      "matchesplayed": 556,
+      "score": 85343,
+      "playersoutlived": 13949,
+      "placetop1": 151,
+      "kills": 2724,
+      "includedPlaylists": [
+        "trios",
+        "showdownalt",
+        "showdown",
+        "highexplosives",
+        "flyexplosives",
+        "slide",
+        "solidgold",
+        "blitz",
+        "classic",
+        "bling",
+        "low",
+        "snipers",
+        "sneaky",
+        "ground"
+      ]
+    },
+    "largeTeamModes": {
+      "placetop1": 10,
+      "matchesplayed": 14,
+      "kills": 87,
+      "includedPlaylists": ["50v50", "5v20"]
+    }
+  }
+}

@@ -1,0 +1,89 @@
+body {
+    background-color: #4c51f7;
+    font-family: Comic Sans MS ,Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+   font-size: 78px;
+   margin: 0 0 20px;
+}
+ 
+.input img {
+    display: block;
+    margin-bottom: 20px;
+}
+
+#form1 input {
+     padding: 1px 10px 5px;
+     font-size: 36px;
+     font-weight: 600;
+     width: 300px;
+     text-align: center;
+     line-height: 1.45;
+ }
+
+ .input {
+     text-align: center;
+ }
+
+ .form-button {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+ }
+
+ .main {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+ }
+
+#form1 {
+    width: auto;
+    padding: 20px;
+}
+ 
+.uid {
+    width: auto;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+
+.stats {
+    width: 520px;
+    padding: 20px 30px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 36px;
+}
+
+.one-half {
+    float:left;
+    width: 60%;
+    margin-right: 5%;
+    text-align: center;
+}
+
+.one-half:last-of-type {
+    float:right;
+    text-align: right;
+    width: 34%;
+    margin-right: 0;
+    transform: translateX(-20px);
+}
+
+.one-half div {
+    margin-bottom: 5px;
+}
+
+.name {
+    text-align: center;
+    font-size: 44px;
+    margin-bottom: 40px;
+}
+ 
